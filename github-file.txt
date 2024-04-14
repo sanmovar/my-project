@@ -1,3 +1,6 @@
 File was created directly on GitHub
+<<<<<<< HEAD
 
 Some additional info is added local
+=======
+>>>>>>> ee785b825cf228f626f1f0419e5495a8b3ee6fcb
